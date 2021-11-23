@@ -17,3 +17,4 @@ usuario,funcionário,produto,emprestimo
 ###### 13 - O sistema deve ser capaz de manter os empréstimos
 ###### 14 - O sistema deverá ser capaz de gerar relatórios das obras que foram emprestadas
 ###### 15 - O funcionário possui código, nome, função, salário 
+###### 16 - O funcionário é responsável por manter as obras, os impréstimos e os usuários.
