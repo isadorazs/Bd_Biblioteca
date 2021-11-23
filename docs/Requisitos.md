@@ -11,4 +11,4 @@ usuario,funcionário,produto,emprestimo
 ###### 7 - O usuario pode  realizar no máximo 3 empréstimos (caso possua 3 emprestimos ativos)
 ###### 8 - uma categoria possui código e nome
 ###### 9 - status_user é ativo ou inativo 
-###### 10 - status_obra é disponível ou indisponível 
+###### 10 - status_obra é disponível ou indisponível  
