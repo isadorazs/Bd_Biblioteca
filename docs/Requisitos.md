@@ -11,4 +11,9 @@ usuario,funcionário,produto,emprestimo
 ###### 7 - O usuario pode  realizar no máximo 3 empréstimos (caso possua 3 emprestimos ativos)
 ###### 8 - uma categoria possui código e nome
 ###### 9 - status_user é ativo ou inativo 
-###### 10 - status_obra é disponível ou indisponível  
+###### 10 - status_obra é disponível ou indisponível
+###### 11 - O sistema deve ser capaz de manter o usuário(alterar, consultar e deletar)
+###### 12 - O sistema deve ser capaz de manter as obras
+###### 13 - O sistema deve ser capaz de manter os empréstimos
+###### 14 - O sistema deverá ser capaz de gerar relatórios das obras que foram emprestadas
+###### 15 - O funcionário possui código, nome, função, salário 
